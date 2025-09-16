@@ -1,0 +1,9 @@
+name: frequency_mapper_fix
+description: Fix for frequency mapping issue with Spanish accents
+version: 1.0.0
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.21.0
